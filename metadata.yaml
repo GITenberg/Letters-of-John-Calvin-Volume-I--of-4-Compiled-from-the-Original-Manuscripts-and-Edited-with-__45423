@@ -1,0 +1,39 @@
+_repo: Letters-of-John-Calvin-Volume-I--of-4-Compiled-from-the-Original-Manuscripts-and-Edited-with-__45423
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45423-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Calvin, Jean
+    alias: Calvin, John
+    birthdate: 1509
+    deathdate: 1564
+    gutenberg_agent_id: '6425'
+    url: http://www.gutenberg.org/2009/agents/6425
+    wikipedia: http://en.wikipedia.org/wiki/John_Calvin
+  editor:
+    agent_name: Bonnet, Jules
+    birthdate: 1820
+    deathdate: 1892
+    gutenberg_agent_id: '43274'
+    url: http://www.gutenberg.org/2009/agents/43274
+description: ''
+gutenberg_issued: '2014-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45423'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Reformation -- France -- Sources'
+- !lcsh 'Calvin, Jean, 1509-1564 -- Correspondence'
+- !lcsh 'Reformed Church -- Switzerland -- Geneva -- Clergy -- Correspondence'
+- !lcsh 'Reformed Church -- France -- Clergy -- Correspondence'
+- !lcc 'BX'
+- !lcsh 'Reformation -- Switzerland -- Geneva -- Sources'
+title: "Letters of John Calvin, Volume I\r\nCompiled from the Original Manuscripts\
+  \ and Edited with Historical Notes"
+url: http://www.gutenberg.org/ebooks/45423
